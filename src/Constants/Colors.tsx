@@ -1,0 +1,32 @@
+const Colors = {
+  white: 'rgb(255,255,255)',
+  black: '#000',
+  transparentBG: 'rgba(0,0,0,0)',
+  fbColor:'#39589A',
+  tealGreen:'#61998A',
+  goldenYellow:'#FBF036',
+  darkishYellow:'#F3CD3F',
+  bronzedYellow:'#CC8837',
+  brown:'#A96C3F',
+  peachyBrown:'#D1AD78',
+  peachy:'#ffc0b4',
+  gray:'#ECECEC',
+  linkedIn:'#1778B5',
+  oldSchool:'#24A5E9',
+  inactiveDot:'#949494',
+  socialColor:'#25A6E9',
+  warmGrey:'#727272',
+  warmGrey2:'#515151',
+  heart:'#ED5C58',
+  unHeart:'#DADADA',
+  inactiveIconColor:'#505050',
+  fadedGray: 'rgb(140,140,140)',
+  textInput: 'rgb(244,244,244)',
+  pinkishGrey: 'rgb(191,191,191)',
+  day:'rgb(214,231,230)',
+  dayText: 'rgb(89,89,89)',
+  textInputGray:'#F1F1F1',
+  blue:'#3D82AC'
+};
+
+export default Colors;
